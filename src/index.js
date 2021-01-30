@@ -14,7 +14,7 @@ const Global = createGlobalStyle`
 
 const theme = {
     colors: {
-        primary: 'green',
+        primary: 'yellow',
         secondary: 'red'
     },
     media: {
